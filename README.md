@@ -26,8 +26,6 @@ The **Enrollment System** transforms how educational centers handle student regi
 
 Below is a snapshot of the active administrator control panel showcasing the layout of the metrics cards and the student tracking ledger.
 
-![Enrollment System Dashboard](enrollment-system.jpg)
-
 ---
 
 ## 🚀 Getting Started
